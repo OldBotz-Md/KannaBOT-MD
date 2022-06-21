@@ -44,11 +44,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/azrycb'
-global.sgh = 'https://github.com/AzRyCb'
+global.sig = '"_"'
+global.sgh = 'https://github.com/OldBotz-Md'
 global.sgc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
 global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://github.com/AzRyCb'
+global.snh = 'https://github.com/OldBotz-Md'
 
 /*============== PAYMENT ==============*/
 global.pdana = '081251549899'
@@ -62,7 +62,7 @@ global.psaweria = '"_"'
 global.nomorbot = '6282122977451'
 global.nomorown = '6281251549899'
 global.namebot = 'DaniBoTz'
-global.nameown = 'Dani'
+global.nameown = 'DaniGanz'
 
 /*============== STAFF ==============*/
 global.owner = [
@@ -115,7 +115,7 @@ global.APIKeys = { // APIKey Here
 /*============== WATERMARK ==============*/
 global.wm = '                「 DaniBoTz ⁩㊣ 」' //Main Watermark
 global.wm2 = '꒷꒥꒷ ‧₊˚ ꒰ฅ˘Dani - Khun˘ฅ ꒱ ‧₊˚꒷꒥꒷'
-global.wm3 = '⫹⫺ Dani𝗕𝗢𝗧'
+global.wm3 = '⫹⫺ DaniBotz𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
